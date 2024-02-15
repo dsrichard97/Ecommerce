@@ -18,8 +18,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Why CPD - Change Point Detection](#why-cpd)
 - [Data Source](#data-source)
-- [Methods](#methods)
-- [Library](#Library-used)
-- [Project Documentation](#project-documentation)
+- [Excel Reports](#excel-report)
+- [Dashboard](#dashboard)
+- [Powerpoint](#powerpoint)
