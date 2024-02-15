@@ -1,4 +1,4 @@
-# Microsoft Change Point Detection
+# Ecommerce Sales Reporting
 
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
