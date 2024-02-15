@@ -18,6 +18,7 @@
 
 ## Table of Contents
 - [Focus](#focus)
+- [Business Problem](#bussines)
 - [Introduction](#introduction)
 - [Data Source](#data-source)
 - [Excel Reports](#excel-report)
@@ -26,6 +27,9 @@
 
 ## Focus 
 To showcase excel skill and financial skills in relationship to business data using visualizations to export meaningful results.
+
+## Business Problem
+A US Based Ecommerce Sales Company wants to create a Sales Dashbpoard Showing information of YTD Sales and generate rich insights using excel and data provided below.
 
 
 ## Introduction
