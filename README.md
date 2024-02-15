@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
-  <img src="msft.png" alt="Microsoft Change Point Detection">
+  <img src="pic1.jpeg" alt="Ecommerce-Picture">
 </p>
 
 <p align="center">
