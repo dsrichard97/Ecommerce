@@ -34,4 +34,18 @@ The growth of eCommerce has been propelled by the advancement in technology, par
 
 ![EcommerceData](https://github.com/dsrichard97/Ecommerce/blob/main/vidgif.gif)
 
+### eCommerce Transactions Data Dictionary
+| Field Name    | Data Type | Description                                           |
+|---------------|-----------|-------------------------------------------------------|
+| TransactionID | Integer   | Unique identifier for each transaction.               |
+| Date          | Date      | The date when the transaction occurred.               |
+| ProductID     | Integer   | Identifier for the product being purchased.           |
+| Quantity      | Integer   | The number of products purchased in the transaction.  |
+| UnitPrice     | Float     | Price of one unit of the product.                     |
+| CustomerID    | Integer   | Unique identifier for the customer.                   |
+| PaymentType   | String    | Method of payment (e.g., Credit Card, PayPal).        |
+| Country       | String    | The country where the transaction took place.         |
+
+This dataset captures detailed information about individual transactions in an eCommerce setting, including the product details, quantity purchased, pricing, customer information, and geographical data. It's designed to help analyze sales performance, customer buying patterns, and product popularity, which are crucial for making informed business decisions in the retail domain.
+
 
