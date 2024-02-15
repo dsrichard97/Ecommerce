@@ -17,11 +17,15 @@
 
 
 ## Table of Contents
+- [Focus](#focus)
 - [Introduction](#introduction)
 - [Data Source](#data-source)
 - [Excel Reports](#excel-report)
 - [Dashboard](#dashboard)
 - [Powerpoint](#powerpoint)
+
+## Focus 
+To showcase excel skill and financial skills in relationship to business data using visualizations to export meaningful results.
 
 
 ## Introduction
