@@ -21,9 +21,7 @@
 - [Business Problem](#bussines)
 - [Introduction](#introduction)
 - [Data Source](#data-source)
-- [Excel Reports](#excel-report)
-- [Dashboard](#dashboard)
-- [Powerpoint](#powerpoint)
+- [Reports](#report)
 
 ## Focus 
 To showcase excel skill and financial skills in relationship to business data using visualizations to export meaningful results.
@@ -55,5 +53,10 @@ The growth of eCommerce has been propelled by the advancement in technology, par
 | Country       | String    | The country where the transaction took place.         |
 
 This dataset captures detailed information about individual transactions in an eCommerce setting, including the product details, quantity purchased, pricing, customer information, and geographical data. It's designed to help analyze sales performance, customer buying patterns, and product popularity, which are crucial for making informed business decisions in the retail domain.
+
+
+
+## Report
+
 
 
