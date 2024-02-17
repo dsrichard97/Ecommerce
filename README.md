@@ -38,7 +38,8 @@ The growth of eCommerce has been propelled by the advancement in technology, par
 
 ## Data Source
 
-![EcommerceData](https://github.com/dsrichard97/Ecommerce/blob/main/vidgif.gif)
+<img src="https://github.com/dsrichard97/Ecommerce/blob/main/vidgif.gif" alt="EcommerceData">
+
 
 ### eCommerce Transactions Data Dictionary
 <table>
