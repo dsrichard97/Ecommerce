@@ -41,16 +41,53 @@ The growth of eCommerce has been propelled by the advancement in technology, par
 ![EcommerceData](https://github.com/dsrichard97/Ecommerce/blob/main/vidgif.gif)
 
 ### eCommerce Transactions Data Dictionary
-| Field Name    | Data Type | Description                                           |
-|---------------|-----------|-------------------------------------------------------|
-| TransactionID | Integer   | Unique identifier for each transaction.               |
-| Date          | Date      | The date when the transaction occurred.               |
-| ProductID     | Integer   | Identifier for the product being purchased.           |
-| Quantity      | Integer   | The number of products purchased in the transaction.  |
-| UnitPrice     | Float     | Price of one unit of the product.                     |
-| CustomerID    | Integer   | Unique identifier for the customer.                   |
-| PaymentType   | String    | Method of payment (e.g., Credit Card, PayPal).        |
-| Country       | String    | The country where the transaction took place.         |
+<table>
+  <tr>
+    <th>Field Name</th>
+    <th>Data Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>TransactionID</td>
+    <td>Integer</td>
+    <td>Unique identifier for each transaction.</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Date</td>
+    <td>The date when the transaction occurred.</td>
+  </tr>
+  <tr>
+    <td>ProductID</td>
+    <td>Integer</td>
+    <td>Identifier for the product being purchased.</td>
+  </tr>
+  <tr>
+    <td>Quantity</td>
+    <td>Integer</td>
+    <td>The number of products purchased in the transaction.</td>
+  </tr>
+  <tr>
+    <td>UnitPrice</td>
+    <td>Float</td>
+    <td>Price of one unit of the product.</td>
+  </tr>
+  <tr>
+    <td>CustomerID</td>
+    <td>Integer</td>
+    <td>Unique identifier for the customer.</td>
+  </tr>
+  <tr>
+    <td>PaymentType</td>
+    <td>String</td>
+    <td>Method of payment (e.g., Credit Card, PayPal).</td>
+  </tr>
+  <tr>
+    <td>Country</td>
+    <td>String</td>
+    <td>The country where the transaction took place.</td>
+  </tr>
+</table>
 
 This dataset captures detailed information about individual transactions in an eCommerce setting, including the product details, quantity purchased, pricing, customer information, and geographical data. It's designed to help analyze sales performance, customer buying patterns, and product popularity, which are crucial for making informed business decisions in the retail domain.
 
